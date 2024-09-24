@@ -1,0 +1,12 @@
+# NAME: Cloudflare_Tunnel
+# AUTHOR: Earsum
+# REPO: https://github.com/Earsum/Custom_OpenClash_Rules
+# Cloudflare_Tunnel列表，来自个人收集
+
+# Cloudflare_Tunnel
+DOMAIN-SUFFIX,api.cloudflare.com
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,pqtunnels.cloudflareresearch.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+IP-CIDR,198.41.192.0/24
+IP-CIDR,198.41.200.0/24

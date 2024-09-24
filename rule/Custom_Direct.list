@@ -91,3 +91,11 @@ DOMAIN-SUFFIX,mjtd.com
 DOMAIN-SUFFIX,dell.com
 # 魔兽工坊
 DOMAIN-SUFFIX,miaoyanai.com
+# 尘白禁区
+DOMAIN-SUFFIX,cbjq.com
+# kamept
+DOMAIN-SUFFIX,kamept.com
+#tailscale相关
+DOMAIN,log.tailscale.io
+DOMAIN,controlplane.tailscale.com
+DOMAIN-KEYWORD,derp

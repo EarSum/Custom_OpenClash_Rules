@@ -10,4 +10,5 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
-
+# 小米外区
+DOMAIN,c.mi.com,🇭🇰 香港节点

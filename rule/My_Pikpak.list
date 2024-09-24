@@ -1,0 +1,12 @@
+# NAME: My_Pikpak
+# AUTHOR: Earsum
+# REPO: https://github.com/Earsum/Custom_OpenClash_Rules
+# Pikpak列表，来自个人收集
+
+# Pikpak
+DOMAIN-KEYWORD,pikpakdrive
+DOMAIN,access.mypikpak.com
+DOMAIN,access.mypikpak.me
+DOMAIN-KEYWORD,mypikpak
+DOMAIN-KEYWORD,pikpak
+IP-CIDR,161.117.181.246/32

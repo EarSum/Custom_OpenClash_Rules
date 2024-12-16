@@ -99,3 +99,5 @@ DOMAIN-SUFFIX,kamept.com
 DOMAIN,log.tailscale.io
 DOMAIN,controlplane.tailscale.com
 DOMAIN-KEYWORD,derp
+#哔哩哔哩漫游黑名单服务器
+DOMAIN,black.qimo.ink

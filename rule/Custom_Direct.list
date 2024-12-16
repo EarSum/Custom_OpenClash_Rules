@@ -101,3 +101,7 @@ DOMAIN,controlplane.tailscale.com
 DOMAIN-KEYWORD,derp
 #哔哩哔哩漫游黑名单服务器
 DOMAIN,black.qimo.ink
+#Apad无污染doh
+DOMAIN,doh.apad.pro
+#flymc无污染doh
+DOMAIN,dns.flymc.cc

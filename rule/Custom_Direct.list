@@ -106,4 +106,4 @@ DOMAIN,doh.apad.pro
 #flymc无污染doh
 DOMAIN,dns.flymc.cc
 #Self-Host Service
-DOMAIN-SUFFIX,earsum.org
+DOMAIN,dns.earsum.org

@@ -109,7 +109,11 @@ DOMAIN,dns.flymc.cc
 DOMAIN,dns.earsum.org
 DOMAIN,earsum.org
 #xns无污染dns
-DOMAIN-SUFFIX,xns.one
+DOMAIN-SUFFIX,pro.xns.one
+DOMAIN-SUFFIX,beta.xns.one
+DOMAIN-SUFFIX,kahkee.xns.one
+DOMAIN-SUFFIX,raito.xns.one
+DOMAIN-SUFFIX,xns.my.id
 DOMAIN-SUFFIX,nxns.link
 DOMAIN-SUFFIX,xns.rodeo
 DOMAIN-SUFFIX,novaxns.one

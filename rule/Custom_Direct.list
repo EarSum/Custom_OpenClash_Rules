@@ -108,3 +108,7 @@ DOMAIN,dns.flymc.cc
 #Self-Host Service
 DOMAIN,dns.earsum.org
 DOMAIN,earsum.org
+#xns无污染dns
+DOMAIN-SUFFIX,xns.one
+DOMAIN-SUFFIX,nxns.link
+DOMAIN-SUFFIX,xns.rodeo

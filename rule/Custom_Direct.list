@@ -136,4 +136,4 @@ IP-CIDR6,2a12:a302:1:a350::2938/128,no-resolve
 IP-CIDR6,2a12:a302:1:a2af::e39a/128,no-resolve
 IP-CIDR6,2001:df1:7880:100::5e/128,no-resolve
 IP-CIDR6,2401:b60:16:8a::/128,no-resolve
-IP-CIDR6, 2404:8c80:0:1010:4a8:2ee7:7701:dcae/128,no-resolve
+IP-CIDR6,2404:8c80:0:1010:4a8:2ee7:7701:dcae/128,no-resolve

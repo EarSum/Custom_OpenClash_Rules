@@ -117,3 +117,23 @@ DOMAIN-SUFFIX,xns.my.id
 DOMAIN-SUFFIX,nxns.link
 DOMAIN-SUFFIX,xns.rodeo
 DOMAIN-SUFFIX,novaxns.one
+IP-CIDR,103.150.8.98/32,no-resolve
+IP-CIDR,8.217.246.48/32,no-resolve
+IP-CIDR,45.141.139.16/32,no-resolve
+IP-CIDR,45.249.245.247/32,no-resolve
+IP-CIDR,172.93.220.162/32,no-resolve
+IP-CIDR,103.143.81.71/32,no-resolve
+IP-CIDR,45.207.222.235/32,no-resolve
+IP-CIDR,154.16.183.43/32,no-resolve
+IP-CIDR,107.174.252.25/32,no-resolve
+IP-CIDR,43.153.181.251/32,no-resolve
+IP-CIDR,43.133.58.4/32,no-resolve
+IP-CIDR,206.237.31.237/32,no-resolve
+IP-CIDR,148.178.21.17/32,no-resolve
+IP-CIDR,8.210.25.124/32,no-resolve
+IP-CIDR,50.7.251.251/32,no-resolve
+IP-CIDR6,2a12:a302:1:a350::2938/128,no-resolve
+IP-CIDR6,2a12:a302:1:a2af::e39a/128,no-resolve
+IP-CIDR6,2001:df1:7880:100::5e/128,no-resolve
+IP-CIDR6,2401:b60:16:8a::/128,no-resolve
+IP-CIDR6, 2404:8c80:0:1010:4a8:2ee7:7701:dcae/128,no-resolve

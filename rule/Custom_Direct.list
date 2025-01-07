@@ -99,16 +99,16 @@ DOMAIN-SUFFIX,kamept.com
 DOMAIN,log.tailscale.io
 DOMAIN,controlplane.tailscale.com
 DOMAIN-KEYWORD,derp
-#哔哩哔哩漫游黑名单服务器
+# 哔哩哔哩漫游黑名单服务器
 DOMAIN,black.qimo.ink
-#Apad无污染doh
+# Apad无污染doh
 DOMAIN,doh.apad.pro
-#flymc无污染doh
+# flymc无污染doh
 DOMAIN,dns.flymc.cc
-#Self-Host Service
+# Self-Host Service
 DOMAIN,dns.earsum.org
 DOMAIN,earsum.org
-#xns无污染dns
+# xns无污染dns
 DOMAIN-SUFFIX,pro.xns.one
 DOMAIN-SUFFIX,beta.xns.one
 DOMAIN-SUFFIX,kahkee.xns.one

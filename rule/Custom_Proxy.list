@@ -8,7 +8,14 @@
 # GooglePlay 相关
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,clientservices.googleapis.com
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
 # 小米外区
 DOMAIN,c.mi.com
+# 嵌入式相关
+DOMAIN-SUFFIX,platformio.org
+DOMAIN-SUFFIX,arduino.cc
+# PT 相关
+DOMAIN-SUFFIX,dmhy.org

@@ -124,8 +124,6 @@ DOMAIN-SUFFIX,guoocang.com
 # Earsum自整理
 # 尘白禁区
 DOMAIN-SUFFIX,cbjq.com
-# kamept
-DOMAIN-SUFFIX,kamept.com
 #tailscale相关
 DOMAIN,log.tailscale.io
 DOMAIN,controlplane.tailscale.com

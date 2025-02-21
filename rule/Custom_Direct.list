@@ -144,6 +144,8 @@ DOMAIN,dns.earsum.org
 DOMAIN,dns-jp.earsum.org
 DOMAIN,bitwarden.earsum.org
 DOMAIN,bitwarden-jp.earsum.org
+DOMAIN,bitwarden-us.earsum.org
+DOMAIN,openwebui.earsum.org
 DOMAIN,earsum.org
 # xns无污染dns
 DOMAIN-SUFFIX,pro.xns.one

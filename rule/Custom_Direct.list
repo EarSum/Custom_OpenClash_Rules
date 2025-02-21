@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,xiaolianhb.com
 DOMAIN-SUFFIX,cbjq.com
 #tailscale相关
 DOMAIN,log.tailscale.io
+DOMAIN,log.tailscale.com
 DOMAIN,controlplane.tailscale.com
 DOMAIN-KEYWORD,derp
 # 哔哩哔哩漫游黑名单服务器

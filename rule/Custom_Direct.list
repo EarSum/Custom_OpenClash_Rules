@@ -141,6 +141,9 @@ DOMAIN,doh.apad.pro
 DOMAIN,dns.flymc.cc
 # Self-Host Service
 DOMAIN,dns.earsum.org
+DOMAIN,dns-jp.earsum.org
+DOMAIN,bitwarden.earsum.org
+DOMAIN,bitwarden-jp.earsum.org
 DOMAIN,earsum.org
 # xns无污染dns
 DOMAIN-SUFFIX,pro.xns.one

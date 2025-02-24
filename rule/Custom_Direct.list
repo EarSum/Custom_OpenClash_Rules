@@ -19,6 +19,7 @@ DOMAIN,dns.flymc.cc
 # Self-Host Service
 DOMAIN,dns.earsum.org
 DOMAIN,dns-jp.earsum.org
+DOMAIN,dns-de.earsum.org
 DOMAIN,bitwarden.earsum.org
 DOMAIN,bitwarden-jp.earsum.org
 DOMAIN,bitwarden-us.earsum.org

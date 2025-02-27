@@ -1,0 +1,15 @@
+# NAME: Custom_Proxy
+# AUTHOR: Earsum
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# 境外下载站列表，来自个人收集
+
+#gofile网盘
+DOMAIN-SUFFIX,gofile.io
+
+#ASMR One下载地址
+DOMAIN-SUFFIX,kiko-play-niptan.one
+DOMAIN-SUFFIX,asmr.one
+
+#ASMR Gay下载地址
+DOMAIN-SUFFIX,asmr.121231234.xyz
+DOMAIN-SUFFIX,asmrgay.com

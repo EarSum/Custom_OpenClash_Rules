@@ -1,0 +1,7 @@
+# NAME: My_Speedtest
+# AUTHOR: Earsum
+# REPO: https://github.com/Earsum/Custom_OpenClash_Rules
+# Speedtest相关域名列表，来自个人收集
+
+# Cloudflare_Speedtest
+DOMAIN-SUFFIX,speed.cloudflare.com

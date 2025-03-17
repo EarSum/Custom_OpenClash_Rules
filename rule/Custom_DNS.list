@@ -88,6 +88,10 @@ DOMAIN,sdns.233py.com
 DOMAIN,security-filter-dns.cleanbrowsing.org
 DOMAIN,security.cloudflare-dns.com
 DOMAIN,unfiltered.adguard-dns.com
+DOMAIN,dns.opendns.com
+DOMAIN,dns.umbrella.com
+DOMAIN,familyshield.opendns.com
+DOMAIN,sandbox.opendns.com
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
@@ -111,6 +115,14 @@ IP-CIDR,9.9.9.10/32,no-resolve
 IP-CIDR,9.9.9.11/32,no-resolve
 IP-CIDR,9.9.9.12/32,no-resolve
 IP-CIDR,149.112.112.112/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
+IP-CIDR,208.67.222.123/32,no-resolve
+IP-CIDR,208.67.220.123/32,no-resolve
+IP-CIDR6,2620:119:35::35/128,no-resolve
+IP-CIDR6,2620:119:53::53/128,no-resolve
+IP-CIDR6,2620:119:35::123/128,no-resolve
+IP-CIDR6,2620:119:53::123/128,no-resolve
 # 境外根服务器
 DOMAIN-SUFFIX,root-servers.net
 IP-CIDR,198.41.0.4/32,no-resolve

@@ -5,6 +5,8 @@
 # 部分域名可能和大陆域名列表存在重叠
 
 # Earsum自整理
+#PT站
+DOMAIN-SUFFIX,m-team.io
 #tailscale相关
 DOMAIN,log.tailscale.io
 DOMAIN,log.tailscale.com

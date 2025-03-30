@@ -21,22 +21,6 @@ DOMAIN,dns.flymc.cc
 # Self-Host Service
 DOMAIN,dns.earsum.org
 DOMAIN,dns-jp.earsum.org
-#DOMAIN,bitwarden.earsum.org
-#DOMAIN,bitwarden-jp.earsum.org
-#DOMAIN,bitwarden-us.earsum.org
-#DOMAIN,openwebui.earsum.org
-#DOMAIN,dashboard.earsum.org
-#DOMAIN,pannel.earsum.org
-#DOMAIN,webdav.earsum.org
-#DOMAIN,earsum.org
-DOMAIN,upper.earsum.org
-DOMAIN,down.earsum.org
-#IP-CIDR,45.8.112.161/32,no-resolve
-#IP-CIDR,154.21.90.170/32,no-resolve
-#IP-CIDR,194.55.15.120/32,no-resolve
-#IP-CIDR6,2a12:a304:4:244::a/128,no-resolve
-#IP-CIDR6,2605:52c0:2:1b38:c850:c4ff:fe99:5e82/128,no-resolve
-#IP-CIDR6,2a03:4000:31:1e8:8890:c4ff:fe7e:c58/128,no-resolve
 # xns无污染dns
 DOMAIN-SUFFIX,pro.xns.one
 DOMAIN-SUFFIX,beta.xns.one

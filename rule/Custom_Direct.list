@@ -20,7 +20,7 @@ DOMAIN,doh.apad.pro
 DOMAIN,dns.flymc.cc
 # Self-Host Service
 DOMAIN,dns.earsum.org
-DOMAIN,dns-jp.earsum.org
+DOMAIN,img-cdn.jijiyy.de
 # xns无污染dns
 DOMAIN-SUFFIX,pro.xns.one
 DOMAIN-SUFFIX,beta.xns.one

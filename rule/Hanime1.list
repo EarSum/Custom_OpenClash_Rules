@@ -1,0 +1,9 @@
+# NAME: Cloudflare_Tunnel
+# AUTHOR: Earsum
+# REPO: https://github.com/Earsum/Custom_OpenClash_Rules
+# Hanime1列表，来自个人收集
+
+# Hanime1
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hanime1.com
+DOMAIN-SUFFIX,hanimeone.me
